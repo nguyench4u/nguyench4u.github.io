@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chau Nguyen",
+    "section": "",
+    "text": "Welcome to my Quarto website."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Chau Nguyen",
+    "section": "Skills",
+    "text": "Skills\n\nPython\nR Programming\nC/C++\nJavascript/React\nCSS"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Chau Nguyen",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Colorado Denver\nMajor: Computer Science, BS\nMinor: Data Science"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Art & Drawing\nGrew up exploring a variety of mediums. This includes sketching, painting, sculpting, and digital art.\n\n\n\nLion Dancing\nMy active hobby since I was 12 years old. A cultural activity that requires acrobats, endurance, and dance!\n\n\nEating\nI love going out to eat with friends, especially all you can eats."
+  }
+]

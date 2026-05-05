@@ -1,0 +1,26 @@
+---
+title: "Chau Nguyen"
+about: 
+  template: jolla
+  image: mypic.png
+  links: 
+  - icon: envelope
+    text: Email
+    href: mailto:nguyench4u@gmail.com
+  - icon: github
+    href: https://github.com/nguyench4u
+---
+
+Welcome to my Quarto website.
+
+## Skills
+- Python
+- R Programming
+- C/C++
+- Javascript/React
+- CSS
+
+## Education 
+- University of Colorado Denver
+- Major: Computer Science, BS
+- Minor: Data Science 

@@ -1,0 +1,15 @@
+---
+title: "Hobbies"
+format: html
+---
+
+# Art & Drawing
+Grew up exploring a variety of mediums. This includes sketching, painting, sculpting, and digital art.  
+![Yes](Chau_ArtCollage.png)
+
+# Lion Dancing
+My active hobby since I was 12 years old. A cultural activity that requires acrobats, endurance, and dance! 
+
+
+# Eating
+I love going out to eat with friends, especially all you can eats. 
